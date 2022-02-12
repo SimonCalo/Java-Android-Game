@@ -1,4 +1,4 @@
-This is the code for a working game fo Android.
+This is the code for a working game of Android.
 
 The game was created as part of an assignment for a bachelor's course/project.
 
